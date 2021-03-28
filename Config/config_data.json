@@ -1,10 +1,34 @@
 {
-  "nature": [
-    "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true",
-    "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Phai%20Chang%20Em%20Da%20Yeu_%20-%20Juky%20San_%20RedT.mp3?raw=true"
-  ],
-  "edm":[
-    "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/edm/Mashup%20Ngay%20Chua%20Giong%20Bao_%20Always%20Remem.mp3?raw=true",
-    "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/edm/Tinh%20Ban%20Dieu%20Ky%20-%20AMee_%20Ricky%20Star_%20Lan.mp3?raw=true"
-  ]
+    "Free": [
+      {
+        "title": "Âm Thanh Của Nỗi Nhớ Anh Remix",
+        "duration": 37000,
+        "url": "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true" 
+      },
+      {
+        "title": "Anh Có Ổn Không",
+        "duration": 51000,
+        "url": "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true" 
+      }
+      ,
+      {
+        "title": "Bạch Nguyệt Quang Và Nốt Chu Sa",
+        "duration": 21000,
+        "url": "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true" 
+      }
+    ],
+    "Happy": [
+      {
+        "id": "nature1"
+        "title": "Biệt khúc chờ nhau",
+        "duration": 100000,
+        "url": "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true" 
+      },
+      {
+        "id": "nature1"
+        "title": "Biệt khúc chờ nhau",
+        "duration": 100000,
+        "url": "https://github.com/Luosoha/upload_mp3/blob/main/Mp3/nature/Biet%20Khuc%20Cho%20Nhau%20OST%20Tan%20Dong%20Song%20Ly.mp3?raw=true" 
+      }
+    ]
 }
